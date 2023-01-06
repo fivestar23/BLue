@@ -7,4 +7,4 @@ NoDisplay=true
 Terminal=true
 StartupNotify=true
 X-GNOME-Autostart-enabled=true
-Comment= Connects bluetooth 
+Comment= To run on start, save file as follows: home/fivestar/.config/autostart/BLue.desktop: place on desktop and Allow Launching as well 

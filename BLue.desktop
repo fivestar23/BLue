@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=lua ./Documents/Lua/Projects/BlueTooth_Script/main.lua
+Name=BLue
+Hidden=false
+NoDisplay=true
+Terminal=true
+StartupNotify=true
+X-GNOME-Autostart-enabled=true
+Comment= Connects bluetooth 
